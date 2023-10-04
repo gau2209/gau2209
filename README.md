@@ -6,7 +6,7 @@
 </p>
 
 
-- ✍ I'm a final-year student at <a href="ou.du.vn">HCM Open University</a>.
+- ✍ I'm a final-year student at <a href="ou.du.vn"><strong>HCM Open University</strong></a>.
 
 <br />
 
